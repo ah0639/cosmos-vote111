@@ -6,7 +6,7 @@ Networks currently support:Cosmos, Osmosis, Juno, Stargaze, Akash, Secret Networ
 
 1111111
 
-Use Mnemonics/Private Key or Keplr to vote
+Use Mnemonics/Private Key or Keplr 
 
 
 ## Use Mnemonics/Private Key(One Mnemonic/Private Key per line)
